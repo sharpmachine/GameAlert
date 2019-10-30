@@ -1,0 +1,17 @@
+{
+	"name": "framer-x-arduino-client",
+	"author": "steveruizok",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"start": "node ."
+	},
+	"keywords": [],
+	"license": "ISC",
+	"dependencies": {
+		"johnny-five": "^1.1.0",
+		"socket.io-client": "^2.2.0"
+	}
+}
