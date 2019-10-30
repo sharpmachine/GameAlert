@@ -1,3 +1,3 @@
 # GameAlert
 
-Jonah loves big, veiny weiners.
+Jonah is cool
