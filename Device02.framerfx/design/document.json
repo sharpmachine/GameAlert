@@ -118,14 +118,14 @@
                         "clip" : false,
                         "codeOverrideEnabled" : true,
                         "codeOverrideFile" : ".\/App.tsx",
-                        "codeOverrideIdentifier" : ".\/App.tsx_ButtonIndicator",
-                        "codeOverrideName" : "ButtonIndicator",
+                        "codeOverrideIdentifier" : ".\/App.tsx_device_0_indicator",
+                        "codeOverrideName" : "device_0_indicator",
                         "constraintsLocked" : true,
                         "deviceType" : null,
                         "exportOptions" : [
 
                         ],
-                        "fillColor" : "hsl(134, 71%, 44%)",
+                        "fillColor" : "var(--token-1e6acca2-c4d5-497f-8554-bde57bd8190b, rgb(255, 225, 0)) \/* {\"name\":\"Jake\"} *\/",
                         "fillEnabled" : true,
                         "fillImage" : null,
                         "fillImageOriginalName" : null,
@@ -428,14 +428,14 @@
                         "clip" : false,
                         "codeOverrideEnabled" : true,
                         "codeOverrideFile" : ".\/App.tsx",
-                        "codeOverrideIdentifier" : ".\/App.tsx_ButtonIndicator",
-                        "codeOverrideName" : "ButtonIndicator",
+                        "codeOverrideIdentifier" : ".\/App.tsx_device_1_indicator",
+                        "codeOverrideName" : "device_1_indicator",
                         "constraintsLocked" : true,
                         "deviceType" : null,
                         "exportOptions" : [
 
                         ],
-                        "fillColor" : "hsl(53, 100%, 50%)",
+                        "fillColor" : "var(--token-4494a1ba-70bc-40d3-a76e-36e7781cb0f7, rgb(33, 192, 70)) \/* {\"name\":\"Jesse\"} *\/",
                         "fillEnabled" : true,
                         "fillImage" : null,
                         "fillImageOriginalName" : null,
@@ -738,14 +738,327 @@
                         "clip" : false,
                         "codeOverrideEnabled" : true,
                         "codeOverrideFile" : ".\/App.tsx",
-                        "codeOverrideIdentifier" : ".\/App.tsx_ButtonIndicator",
-                        "codeOverrideName" : "ButtonIndicator",
+                        "codeOverrideIdentifier" : ".\/App.tsx_LEDIndicator",
+                        "codeOverrideName" : "LEDIndicator",
                         "constraintsLocked" : true,
                         "deviceType" : null,
                         "exportOptions" : [
 
                         ],
-                        "fillColor" : "hsl(352, 71%, 44%)",
+                        "fillColor" : "var(--token-485e4089-ad5e-4799-bf15-e7fbdf47671c, rgb(2, 86, 254)) \/* {\"name\":\"Jonah\"} *\/",
+                        "fillEnabled" : true,
+                        "fillImage" : null,
+                        "fillImageOriginalName" : null,
+                        "fillImagePixelHeight" : null,
+                        "fillImagePixelWidth" : null,
+                        "fillImageResize" : "fill",
+                        "fillType" : "color",
+                        "guidesX" : [
+
+                        ],
+                        "guidesY" : [
+
+                        ],
+                        "height" : 38,
+                        "heightType" : 0,
+                        "id" : "HnVIu3e4J",
+                        "intrinsicHeight" : null,
+                        "intrinsicWidth" : null,
+                        "isExternalMaster" : null,
+                        "isMaster" : false,
+                        "isTarget" : false,
+                        "left" : null,
+                        "locked" : false,
+                        "name" : null,
+                        "navigationTarget" : null,
+                        "navigationTransition" : "push",
+                        "navigationTransitionBackdropColor" : "rgba(4,4,15,.4)",
+                        "navigationTransitionDirection" : "left",
+                        "opacity" : 1,
+                        "originalid" : null,
+                        "parentid" : "hM2xZq64z",
+                        "previewSettings" : null,
+                        "radius" : 100,
+                        "radiusBottomLeft" : 100,
+                        "radiusBottomRight" : 100,
+                        "radiusIsRelative" : true,
+                        "radiusPerCorner" : false,
+                        "radiusTopLeft" : 100,
+                        "radiusTopRight" : 100,
+                        "replicaInfo" : null,
+                        "right" : 7,
+                        "rotation" : 0,
+                        "top" : 7,
+                        "visible" : true,
+                        "width" : 0.74509803921568629,
+                        "widthType" : 1
+                      }
+                    ],
+                    "clip" : false,
+                    "codeOverrideEnabled" : false,
+                    "constraintsLocked" : false,
+                    "deviceType" : null,
+                    "exportOptions" : [
+
+                    ],
+                    "fillColor" : "rgba(255,255,255,1)",
+                    "fillEnabled" : true,
+                    "fillImage" : null,
+                    "fillImageOriginalName" : null,
+                    "fillImagePixelHeight" : null,
+                    "fillImagePixelWidth" : null,
+                    "fillImageResize" : "fill",
+                    "fillType" : "color",
+                    "guidesX" : [
+
+                    ],
+                    "guidesY" : [
+
+                    ],
+                    "height" : 51,
+                    "heightType" : 0,
+                    "id" : "hM2xZq64z",
+                    "intrinsicHeight" : null,
+                    "intrinsicWidth" : null,
+                    "isExternalMaster" : null,
+                    "isMaster" : false,
+                    "isTarget" : false,
+                    "left" : null,
+                    "locked" : false,
+                    "name" : "LED",
+                    "navigationTarget" : null,
+                    "navigationTransition" : "push",
+                    "navigationTransitionBackdropColor" : "rgba(4,4,15,.4)",
+                    "navigationTransitionDirection" : "left",
+                    "opacity" : 1,
+                    "originalid" : null,
+                    "parentid" : "RYS15urfT",
+                    "previewSettings" : null,
+                    "radius" : 100,
+                    "radiusBottomLeft" : 100,
+                    "radiusBottomRight" : 100,
+                    "radiusIsRelative" : true,
+                    "radiusPerCorner" : false,
+                    "radiusTopLeft" : 100,
+                    "radiusTopRight" : 100,
+                    "replicaInfo" : null,
+                    "right" : null,
+                    "rotation" : 0,
+                    "top" : null,
+                    "visible" : true,
+                    "width" : 51,
+                    "widthType" : 0
+                  },
+                  {
+                    "__class" : "TextNode",
+                    "autoSize" : true,
+                    "bottom" : null,
+                    "centerAnchorX" : 0.49757281553398058,
+                    "centerAnchorY" : 0.95890410958904104,
+                    "codeOverrideEnabled" : false,
+                    "constraintsLocked" : false,
+                    "exportOptions" : [
+
+                    ],
+                    "height" : 14,
+                    "heightType" : 0,
+                    "id" : "WvqrP05Rd",
+                    "isTarget" : false,
+                    "left" : null,
+                    "locked" : false,
+                    "name" : null,
+                    "opacity" : 1,
+                    "originalid" : null,
+                    "parentid" : "RYS15urfT",
+                    "right" : null,
+                    "rotation" : 0,
+                    "styledText" : {
+                      "__class" : "StyledTextDraft",
+                      "blocks" : [
+                        {
+                          "data" : {
+                            "emptyStyle" : [
+                              "FONT:__SF-UI-Text-Regular__",
+                              "LETTERSPACING:0",
+                              "LINEHEIGHT:1.2",
+                              "BOLD",
+                              "SIZE:12",
+                              "ALIGN:center",
+                              "COLOR:hsl(0, 0%, 100%)"
+                            ]
+                          },
+                          "depth" : 0,
+                          "entityRanges" : [
+
+                          ],
+                          "inlineStyleRanges" : [
+                            {
+                              "length" : 5,
+                              "offset" : 0,
+                              "style" : "FONT:__SF-UI-Text-Regular__"
+                            },
+                            {
+                              "length" : 5,
+                              "offset" : 0,
+                              "style" : "LETTERSPACING:0"
+                            },
+                            {
+                              "length" : 5,
+                              "offset" : 0,
+                              "style" : "LINEHEIGHT:1.2"
+                            },
+                            {
+                              "length" : 5,
+                              "offset" : 0,
+                              "style" : "BOLD"
+                            },
+                            {
+                              "length" : 5,
+                              "offset" : 0,
+                              "style" : "SIZE:12"
+                            },
+                            {
+                              "length" : 5,
+                              "offset" : 0,
+                              "style" : "ALIGN:center"
+                            },
+                            {
+                              "length" : 5,
+                              "offset" : 0,
+                              "style" : "COLOR:hsl(0, 0%, 100%)"
+                            }
+                          ],
+                          "key" : "5f7q2",
+                          "text" : "Jonah",
+                          "type" : "unstyled"
+                        }
+                      ],
+                      "cached" : {
+                        "html" : "<div class='DraftEditor-alignCenter'><div data-offset-key=\"5f7q2-0-0\" class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\"><span data-offset-key=\"5f7q2-0-0\" style=\"font-weight:bold;tab-size:4;font-family:&quot;.SFNSText&quot;, &quot;SFProText-Regular&quot;, &quot;SFUIText-Regular&quot;, &quot;.SFUIText&quot;, &quot;-apple-system&quot;, &quot;BlinkMacSystemFont&quot;, sans-serif;-webkit-text-fill-color:hsl(0, 0%, 100%);font-size:12px;letter-spacing:0px;line-height:1.2\"><span data-text=\"true\">Jonah<\/span><\/span><\/div><\/div>",
+                        "os" : "macos 10_14 framerx",
+                        "size" : {
+                          "height" : 14,
+                          "width" : 38
+                        },
+                        "width" : 0
+                      },
+                      "entityMap" : {
+
+                      }
+                    },
+                    "top" : null,
+                    "visible" : true,
+                    "width" : 38,
+                    "widthType" : 0
+                  }
+                ],
+                "clip" : false,
+                "codeComponentIdentifier" : "framer\/Stack",
+                "codeComponentProps" : {
+                  "alignment" : "center",
+                  "direction" : "vertical",
+                  "distribution" : "start",
+                  "gap" : 10,
+                  "padding" : 0,
+                  "paddingBottom" : 0,
+                  "paddingLeft" : 0,
+                  "paddingPerSide" : false,
+                  "paddingRight" : 0,
+                  "paddingTop" : 0
+                },
+                "codeOverrideEnabled" : true,
+                "codeOverrideFile" : ".\/App.tsx",
+                "codeOverrideIdentifier" : ".\/App.tsx_HideLED",
+                "codeOverrideName" : "HideLED",
+                "constraintsLocked" : false,
+                "deviceType" : null,
+                "exportOptions" : [
+
+                ],
+                "fillColor" : "var(--token-2bf7fc0b-71e1-454b-a072-1863d2e7e490, rgb(192, 33, 54)) \/* {\"name\":\"Nick\"} *\/",
+                "fillEnabled" : true,
+                "fillImage" : null,
+                "fillImageOriginalName" : null,
+                "fillImagePixelHeight" : null,
+                "fillImagePixelWidth" : null,
+                "fillImageResize" : "fill",
+                "fillType" : "color",
+                "height" : 73,
+                "heightType" : 0,
+                "id" : "RYS15urfT",
+                "intrinsicHeight" : null,
+                "intrinsicWidth" : null,
+                "left" : null,
+                "locked" : false,
+                "name" : "Jesse",
+                "opacity" : 1,
+                "originalid" : null,
+                "parentid" : "mPSUyPNhf@framer\/steveruizok.education-XREstntDl-IMoJuI2JM",
+                "previewSettings" : null,
+                "radius" : 0,
+                "radiusBottomLeft" : 0,
+                "radiusBottomRight" : 0,
+                "radiusIsRelative" : false,
+                "radiusPerCorner" : false,
+                "radiusTopLeft" : 0,
+                "radiusTopRight" : 0,
+                "right" : null,
+                "rotation" : 0,
+                "top" : null,
+                "visible" : false,
+                "width" : 58,
+                "widthType" : 0
+              },
+              {
+                "__class" : "CodeComponentNode",
+                "aspectRatio" : null,
+                "bottom" : null,
+                "centerAnchorX" : 0.5,
+                "centerAnchorY" : 0.31305637982195844,
+                "children" : [
+                  {
+                    "__class" : "FrameNode",
+                    "aspectRatio" : null,
+                    "blendingEnabled" : 0,
+                    "blendingMode" : "normal",
+                    "bottom" : null,
+                    "boxShadows" : [
+                      {
+                        "__class" : "BoxShadow",
+                        "blur" : 5,
+                        "color" : "rgba(0,0,0,0.25)",
+                        "enabled" : true,
+                        "inset" : false,
+                        "spread" : 0,
+                        "x" : 0,
+                        "y" : 2
+                      }
+                    ],
+                    "centerAnchorX" : 0.41019417475728154,
+                    "centerAnchorY" : 0.20564516129032259,
+                    "children" : [
+                      {
+                        "__class" : "FrameNode",
+                        "aspectRatio" : 1,
+                        "blendingEnabled" : 0,
+                        "blendingMode" : "normal",
+                        "bottom" : null,
+                        "centerAnchorX" : 0.49019607843137253,
+                        "centerAnchorY" : 0.50980392156862742,
+                        "children" : [
+
+                        ],
+                        "clip" : false,
+                        "codeOverrideEnabled" : true,
+                        "codeOverrideFile" : ".\/App.tsx",
+                        "codeOverrideIdentifier" : ".\/App.tsx_device_3_indicator",
+                        "codeOverrideName" : "device_3_indicator",
+                        "constraintsLocked" : true,
+                        "deviceType" : null,
+                        "exportOptions" : [
+
+                        ],
+                        "fillColor" : "var(--token-2bf7fc0b-71e1-454b-a072-1863d2e7e490, rgb(192, 33, 54)) \/* {\"name\":\"Nick\"} *\/",
                         "fillEnabled" : true,
                         "fillImage" : null,
                         "fillImageOriginalName" : null,
@@ -1281,9 +1594,9 @@
         "previewSettings" : {
           "__class" : "PreviewSettings",
           "bezel" : false,
-          "deviceType" : "framer\/FramerAppleIPhoneXS",
-          "responsive" : false,
-          "rotate" : true,
+          "deviceType" : null,
+          "responsive" : true,
+          "rotate" : false,
           "touch" : false,
           "zoom" : -1
         },
@@ -1426,10 +1739,36 @@
     "originalid" : null,
     "parentid" : null,
     "tokens" : {
-
+      "1e6acca2-c4d5-497f-8554-bde57bd8190b" : {
+        "__class" : "ColorTokenNode",
+        "id" : "1e6acca2-c4d5-497f-8554-bde57bd8190b",
+        "name" : "Jake",
+        "value" : "rgb(192, 33, 54)"
+      },
+      "2bf7fc0b-71e1-454b-a072-1863d2e7e490" : {
+        "__class" : "ColorTokenNode",
+        "id" : "2bf7fc0b-71e1-454b-a072-1863d2e7e490",
+        "name" : "Nick",
+        "value" : "rgb(255, 225, 0)"
+      },
+      "485e4089-ad5e-4799-bf15-e7fbdf47671c" : {
+        "__class" : "ColorTokenNode",
+        "id" : "485e4089-ad5e-4799-bf15-e7fbdf47671c",
+        "name" : "Jonah",
+        "value" : "rgb(2, 86, 254)"
+      },
+      "4494a1ba-70bc-40d3-a76e-36e7781cb0f7" : {
+        "__class" : "ColorTokenNode",
+        "id" : "4494a1ba-70bc-40d3-a76e-36e7781cb0f7",
+        "name" : "Jesse",
+        "value" : "rgb(33, 192, 70)"
+      }
     },
     "tokensIndex" : [
-
+      "1e6acca2-c4d5-497f-8554-bde57bd8190b",
+      "4494a1ba-70bc-40d3-a76e-36e7781cb0f7",
+      "2bf7fc0b-71e1-454b-a072-1863d2e7e490",
+      "485e4089-ad5e-4799-bf15-e7fbdf47671c"
     ],
     "visible" : false
   },

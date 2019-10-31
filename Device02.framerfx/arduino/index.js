@@ -12,10 +12,11 @@ function main() {
 	const responses = {
 		CONNECT: () => console.log("Connected yo!"),
 		DISCONNECT: () => console.log("Disconnected"),
-		FLIP_SWITCH: data => toggleLED(data.isOn)
+		FLIP_SWITCH: data => toggleLED(data.isOnline, data.deviceID)
 	};
 
 	const dispatch = connectToHost(serverUrl, responses);
+	const deviceID = 1;
 
 	// Components
 	const button = new five.Button(2);
@@ -29,7 +30,7 @@ function main() {
 	});
 
 	// State changes
-	const toggleLED = isOn => {
+	function toggleLED(isOn, deviceID) {
 		if (isOn) {
 			friendLed.on();
 		} else {
@@ -43,8 +44,7 @@ function main() {
 	button.on("down", function() {
 		isOnline = !isOnline
 		isOnline ? myLed.on() : myLed.off()
-		// friend's device
-		dispatch("BUTTON_CHANGE", { isOnline: isOnline });
+		dispatch("BUTTON_CHANGE", { isOnline: isOnline, deviceID: deviceID });
 	});
 }
 
