@@ -738,8 +738,8 @@
                         "clip" : false,
                         "codeOverrideEnabled" : true,
                         "codeOverrideFile" : ".\/App.tsx",
-                        "codeOverrideIdentifier" : ".\/App.tsx_LEDIndicator",
-                        "codeOverrideName" : "LEDIndicator",
+                        "codeOverrideIdentifier" : ".\/App.tsx_device_2_indicator",
+                        "codeOverrideName" : "device_2_indicator",
                         "constraintsLocked" : true,
                         "deviceType" : null,
                         "exportOptions" : [
@@ -976,7 +976,7 @@
 
                 ],
                 "fillColor" : "var(--token-2bf7fc0b-71e1-454b-a072-1863d2e7e490, rgb(192, 33, 54)) \/* {\"name\":\"Nick\"} *\/",
-                "fillEnabled" : true,
+                "fillEnabled" : false,
                 "fillImage" : null,
                 "fillImageOriginalName" : null,
                 "fillImagePixelHeight" : null,
@@ -990,7 +990,7 @@
                 "intrinsicWidth" : null,
                 "left" : null,
                 "locked" : false,
-                "name" : "Jesse",
+                "name" : "Jonah",
                 "opacity" : 1,
                 "originalid" : null,
                 "parentid" : "mPSUyPNhf@framer\/steveruizok.education-XREstntDl-IMoJuI2JM",
@@ -1005,7 +1005,7 @@
                 "right" : null,
                 "rotation" : 0,
                 "top" : null,
-                "visible" : false,
+                "visible" : true,
                 "width" : 58,
                 "widthType" : 0
               },
@@ -1315,7 +1315,7 @@
                 "right" : null,
                 "rotation" : 0,
                 "top" : null,
-                "visible" : true,
+                "visible" : false,
                 "width" : 58,
                 "widthType" : 0
               }
@@ -1456,52 +1456,52 @@
                   ],
                   "inlineStyleRanges" : [
                     {
-                      "length" : 17,
+                      "length" : 16,
                       "offset" : 0,
                       "style" : "FONT:__SF-UI-Text-Regular__"
                     },
                     {
-                      "length" : 17,
+                      "length" : 16,
                       "offset" : 0,
                       "style" : "SIZE:16"
                     },
                     {
-                      "length" : 17,
+                      "length" : 16,
                       "offset" : 0,
                       "style" : "LETTERSPACING:0"
                     },
                     {
-                      "length" : 17,
+                      "length" : 16,
                       "offset" : 0,
                       "style" : "LINEHEIGHT:1.2"
                     },
                     {
-                      "length" : 17,
+                      "length" : 16,
                       "offset" : 0,
                       "style" : "BOLD"
                     },
                     {
-                      "length" : 17,
+                      "length" : 16,
                       "offset" : 0,
                       "style" : "COLOR:hsl(0, 0%, 100%)"
                     },
                     {
-                      "length" : 17,
+                      "length" : 16,
                       "offset" : 0,
                       "style" : "ALIGN:center"
                     }
                   ],
                   "key" : "5f7q2",
-                  "text" : "Device 02 (Jonah)",
+                  "text" : "Device 03 (Nick)",
                   "type" : "unstyled"
                 }
               ],
               "cached" : {
-                "html" : "<div class='DraftEditor-alignCenter'><div data-offset-key=\"5f7q2-0-0\" class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\"><span data-offset-key=\"5f7q2-0-0\" style=\"font-weight:bold;tab-size:4;font-family:&quot;.SFNSText&quot;, &quot;SFProText-Regular&quot;, &quot;SFUIText-Regular&quot;, &quot;.SFUIText&quot;, &quot;-apple-system&quot;, &quot;BlinkMacSystemFont&quot;, sans-serif;-webkit-text-fill-color:hsl(0, 0%, 100%);font-size:16px;letter-spacing:0px;line-height:1.2\"><span data-text=\"true\">Device 02 (Jonah)<\/span><\/span><\/div><\/div>",
+                "html" : "<div class='DraftEditor-alignCenter'><div data-offset-key=\"5f7q2-0-0\" class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\"><span data-offset-key=\"5f7q2-0-0\" style=\"font-weight:bold;tab-size:4;font-family:&quot;.SFNSText&quot;, &quot;SFProText-Regular&quot;, &quot;SFUIText-Regular&quot;, &quot;.SFUIText&quot;, &quot;-apple-system&quot;, &quot;BlinkMacSystemFont&quot;, sans-serif;-webkit-text-fill-color:hsl(0, 0%, 100%);font-size:16px;letter-spacing:0px;line-height:1.2\"><span data-text=\"true\">Device 03 (Nick)<\/span><\/span><\/div><\/div>",
                 "os" : "macos 10_14 framerx",
                 "size" : {
                   "height" : 19,
-                  "width" : 148
+                  "width" : 135
                 },
                 "width" : 0
               },
@@ -1511,7 +1511,7 @@
             },
             "top" : null,
             "visible" : true,
-            "width" : 148,
+            "width" : 135,
             "widthType" : 0
           }
         ],

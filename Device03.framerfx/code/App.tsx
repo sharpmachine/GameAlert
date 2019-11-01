@@ -30,7 +30,7 @@ const responses = {
 // 3         | Nick  | Yellow
 
 const dispatch = connectToHost(serverUrl, responses)
-const deviceID = 2 // Jonah
+const deviceID = 3 // Nick
 
 const appState = Data({
     isDevice_0_Online: false,
@@ -40,7 +40,6 @@ const appState = Data({
 })
 
 export function Switch(): Override {
-    console.log(appState[1])
     return {
         value: appState[Object.keys(appState)[deviceID]],
         onValueChange: value => {

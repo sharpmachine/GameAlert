@@ -10,6 +10,7 @@ const responses = {
     CONNECT: () => console.log(`Device ${deviceID} Connected`),
     DISCONNECT: () => console.log(`Device ${deviceID} Disconnected`),
     BUTTON_CHANGE: data => {
+        console.log(data)
         if (data.deviceID == 0) {
             appState.isDevice_0_Online = data.isOnline
         } else if (data.deviceID == 1) {
@@ -30,7 +31,7 @@ const responses = {
 // 3         | Nick  | Yellow
 
 const dispatch = connectToHost(serverUrl, responses)
-const deviceID = 2 // Jonah
+const deviceID = 0 // Jake
 
 const appState = Data({
     isDevice_0_Online: false,
@@ -40,7 +41,6 @@ const appState = Data({
 })
 
 export function Switch(): Override {
-    console.log(appState[1])
     return {
         value: appState[Object.keys(appState)[deviceID]],
         onValueChange: value => {

@@ -42,6 +42,7 @@ function main() {
 
 	// State changes
 	function toggleLED(isOnline, deviceID) {
+		dispatch("BUTTON_CHANGE", { isOnline: isOnline, deviceID: deviceID });
 		if (isOnline) {
 			if (deviceID == 0) {
 				device_0_led.on()

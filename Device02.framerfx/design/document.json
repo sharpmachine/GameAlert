@@ -976,7 +976,7 @@
 
                 ],
                 "fillColor" : "var(--token-2bf7fc0b-71e1-454b-a072-1863d2e7e490, rgb(192, 33, 54)) \/* {\"name\":\"Nick\"} *\/",
-                "fillEnabled" : true,
+                "fillEnabled" : false,
                 "fillImage" : null,
                 "fillImageOriginalName" : null,
                 "fillImagePixelHeight" : null,
@@ -990,7 +990,7 @@
                 "intrinsicWidth" : null,
                 "left" : null,
                 "locked" : false,
-                "name" : "Jesse",
+                "name" : "Jonah",
                 "opacity" : 1,
                 "originalid" : null,
                 "parentid" : "mPSUyPNhf@framer\/steveruizok.education-XREstntDl-IMoJuI2JM",
